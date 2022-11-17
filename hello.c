@@ -5,6 +5,6 @@ int main()
 
     printf("welcome to git");
 
-    printf("git/github is awesome tool");
+    printf("git/github is awesome tool")
 
 }
